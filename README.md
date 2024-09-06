@@ -1,4 +1,4 @@
-# health-center-client-desktop
+# electron-vite-tailwind-primereact-ts
 
 An Electron application with React and TypeScript
 
